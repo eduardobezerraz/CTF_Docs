@@ -1,4 +1,6 @@
-# PicoCTF Docs
-![PicoCTF_Logo](/imgs/PicoCTF_Logo.png)
+<img src="imgs/PicoCTF_Logo.png" alt="PicoCTF_Logo" width="200" class=logo/>
 
-Repositório voltado solução de problemas da plataforma PicoCTF
+# PicoCTF Docs
+
+### Repositório voltado solução de problemas da plataforma PicoCTF
+
