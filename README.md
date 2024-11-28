@@ -18,3 +18,4 @@ Repositório com conteúdos diversos sobre cibersegurança.
 
 [TryHackMe](https://tryhackme.com/) - Site com cursos de cibersegurança.
 
+[Hacker101](https://www.hacker101.com) - Site com cursos e CTFs voltados a segurança web.
