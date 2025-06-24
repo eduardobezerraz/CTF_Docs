@@ -9,10 +9,10 @@ Os materiais incluem livros, manuais, e referências, com links para os PDFs na 
 ## 🏴‍☠️ Trilha — CTF & Bug Bounty (Web, OSINT e Engenharia Social)
 
 ### 🔰 Fundamentos
-- [Redes de Computadores](./pdfs/Redes_de_Computadores_-_Andrew_Tanenbaum.pdf) — Tanenbaum
-- <a href="https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_Illustrated-EN.pdf" target="_blank">TCP/IP Illustrated</a> — Stevens
-- [The Linux Command Line](./pdfs/The_Linux_Command_Line_-_William_Shotts.pdf) — William Shotts  
-- [How Linux Works](./pdfs/How_Linux_Works_-_Brian_Ward.pdf) — Brian Ward  
+- [Redes de Computadores](https://archive.org/details/tanenbaum-rede-de-computadores-6a/page/n3/mode/2up?view=theater) — Tanenbaum
+- [TCP/IP Illustrated](https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_Illustrated-EN.pdf) — Stevens
+- [The Linux Command Line](https://www.kea.nu/files/textbooks/humblesec/thelinuxcommandline.pdf) — William Shotts
+- [How Linux Works](https://stcformation.com/wp-content/uploads/2023/10/How-Linux-Works-What-Every-Superuser-Should-Know.pdf) — Brian Ward
 
 ### 🚀 Pentest Básico
 - [The Hacker Playbook 2](./pdfs/The_Hacker_Playbook_2_-_Peter_Kim.pdf) — Peter Kim  
