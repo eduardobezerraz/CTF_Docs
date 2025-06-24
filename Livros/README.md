@@ -9,8 +9,8 @@ Os materiais incluem livros, manuais, e referências, com links para os PDFs na 
 ## 🏴‍☠️ Trilha — CTF & Bug Bounty (Web, OSINT e Engenharia Social)
 
 ### 🔰 Fundamentos
-- [Redes de Computadores](./pdfs/Redes_de_Computadores_-_Andrew_Tanenbaum.pdf) — Tanenbaum  
-- [TCP/IP Illustrated](./pdfs/TCP-IP_Illustrated_Volume_1_-_Richard_Stevens.pdf) — Stevens  
+- [Redes de Computadores](./pdfs/Redes_de_Computadores_-_Andrew_Tanenbaum.pdf) — Tanenbaum
+- <a href="https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_Illustrated-EN.pdf" target="_blank">TCP/IP Illustrated</a> — Stevens
 - [The Linux Command Line](./pdfs/The_Linux_Command_Line_-_William_Shotts.pdf) — William Shotts  
 - [How Linux Works](./pdfs/How_Linux_Works_-_Brian_Ward.pdf) — Brian Ward  
 
