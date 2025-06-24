@@ -15,9 +15,10 @@ Os materiais incluem livros, manuais, e referências, com links para os PDFs na 
 - [How Linux Works](https://stcformation.com/wp-content/uploads/2023/10/How-Linux-Works-What-Every-Superuser-Should-Know.pdf) — Brian Ward
 
 ### 🚀 Pentest Básico
-- [The Hacker Playbook 2](./pdfs/The_Hacker_Playbook_2_-_Peter_Kim.pdf) — Peter Kim  
-- [Penetration Testing](./pdfs/Penetration_Testing_-_Georgia_Weidman.pdf) — Georgia Weidman  
-- [Kali Linux Revealed](./pdfs/Kali_Linux_Revealed_-_Raphael_Hertzog.pdf) — Raphael Hertzog  
+- [The Hacker Playbook 2 - Practical Guide To Penetration Testing](https://someplace-else.neocities.org/books/The%20Hacker%20Playbook%202%20-%20Practical%20Guide%20To%20Penetration%20Testing.pdf) — Peter Kim
+- [Penetration Testing - A Hands-On Introduction to Hacking](https://www.tsoungui.fr/ebooks/Penetration%20Testing%20-%20A%20hands-on%20introduction%20to%20Hacking.pdf) — Georgia Weidman  
+- [Kali Linux Revealed (2021 Edition)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Kali-Linux-Revealed-2021-edition.pdf) — Offensive Security
+
 
 ### 🌐 Web Hacking
 - [The Web Application Hacker’s Handbook](./pdfs/The_Web_Application_Hackers_Handbook_-_Dafydd_Stuttard.pdf) — Dafydd Stuttard  
